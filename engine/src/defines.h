@@ -168,7 +168,7 @@ STATIC_ASSERT(sizeof(f64) == 8, "Expected f64 to be 8 bytes.");
 
 #else
 
-#define KAPIAdd commentMore actions
+#define KAPI
 
 #endif
 
